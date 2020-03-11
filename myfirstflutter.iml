@@ -9,6 +9,9 @@
       <excludeFolder url="file://$MODULE_DIR$/.idea" />
       <excludeFolder url="file://$MODULE_DIR$/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/build" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter3rd/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter3rd/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter3rd/build" />
       <excludeFolder url="file://$MODULE_DIR$/myfirst/.dart_tool" />
       <excludeFolder url="file://$MODULE_DIR$/myfirst/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/myfirst/build" />
